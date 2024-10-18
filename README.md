@@ -18,3 +18,5 @@ Refer to the maximum points for each design below.
 |[Design 5](./d5.jpg)  | 60 |
 | [Design 6](./d6.jpg) | 60 |
 | [Design 7](./d7.jpg) | 80 |
+
+- Designs (8-10) are hidden, Capture the flags depicting Images/ Get the Target Design from here : <a href="http://www.hackerrank.com/css-battles">CLICK HERE</a>
